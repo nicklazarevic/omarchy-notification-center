@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="720" viewBox="0 0 1000 720">
+  <rect width="1000" height="720" fill="#131722"/>
+  <rect width="1000" height="52" fill="#1e2433"/>
+  <g font-family="DejaVu Sans, sans-serif" fill="#e5e8f1">
+    <text x="36" y="34" font-size="23">Omarchy</text>
+  </g>
+  <g transform="translate(865 11)" fill="#e5e8f1" stroke="#e5e8f1" stroke-linecap="round">
+    <path d="M12 7 C7 7 5 11 5 17 L5 22 L2 26 L22 26 L19 22 L19 17 C19 11 17 7 12 7 Z"/>
+    <circle cx="12" cy="29" r="2.5" stroke="none"/>
+    <path d="M1 11 Q-3 17 1 23 M23 11 Q27 17 23 23" fill="none" stroke-width="2"/>
+  </g>
+  <text x="900" y="33" font-family="DejaVu Sans" font-size="18" fill="#e5e8f1">10</text>
+  <rect x="445" y="73" width="520" height="605" rx="14" fill="#202638" stroke="#647391" stroke-width="2"/>
+  <g font-family="DejaVu Sans, sans-serif">
+    <text x="469" y="119" font-size="25" font-weight="bold" fill="#eef2fb">Notifications</text>
+    <rect x="469" y="144" width="95" height="37" rx="8" fill="#8badf2"/>
+    <text x="483" y="169" font-size="17" fill="#172038">Recent</text>
+    <rect x="574" y="144" width="91" height="37" rx="8" fill="none" stroke="#74829e"/>
+    <text x="591" y="169" font-size="17" fill="#d7deec">Saved</text>
+    <text x="469" y="212" font-size="13" letter-spacing="2" fill="#a7b2c7">RECENT 10</text>
+    <rect x="469" y="225" width="472" height="76" rx="6" fill="#303b52" stroke="#8badf2" stroke-width="2"/>
+    <text x="485" y="253" font-size="17" fill="#eef2fb">Planning session starts in 30 minutes</text>
+    <text x="485" y="279" font-size="14" fill="#b8c3d7">Calendar · Today, 10:00 AM</text>
+    <rect x="469" y="309" width="472" height="76" rx="6" fill="#283145" stroke="#50607b"/>
+    <text x="485" y="337" font-size="17" fill="#eef2fb">Your package is ready for pickup</text>
+    <text x="485" y="363" font-size="14" fill="#b8c3d7">Messages · Today, 9:50 AM</text>
+    <rect x="469" y="393" width="472" height="76" rx="6" fill="#283145" stroke="#50607b"/>
+    <text x="485" y="421" font-size="17" fill="#eef2fb">Backup completed successfully</text>
+    <text x="485" y="447" font-size="14" fill="#b8c3d7">System · Today, 9:30 AM</text>
+    <rect x="469" y="486" width="472" height="157" rx="6" fill="#283145" stroke="#657690"/>
+    <text x="485" y="509" font-size="13" letter-spacing="2" fill="#b8c3d7">DETAILS</text>
+    <text x="916" y="509" font-size="18" fill="#b8c3d7">×</text>
+    <path d="M485 520 H925" stroke="#50607b"/>
+    <text x="485" y="547" font-size="16" fill="#eef2fb">Planning session starts in 30 minutes</text>
+    <text x="485" y="572" font-size="14" fill="#b8c3d7">Bring your notes and project updates.</text>
+    <text x="485" y="601" font-size="13" fill="#91a0ba">Scroll to read the full message</text>
+    <rect x="485" y="614" width="64" height="25" rx="5" fill="#3a557e"/>
+    <text x="500" y="632" font-size="13" fill="#eef2fb">Save</text>
+    <text x="35" y="692" font-size="18" fill="#98a5bd">SYNTHETIC PREVIEW — sample text only</text>
+  </g>
+</svg>

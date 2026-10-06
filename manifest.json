@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "id": "laza11.notification-center",
+  "name": "Notification Center",
+  "version": "0.1.2",
+  "author": "Nick",
+  "description": "Recent notifications, private saved items, and linked reminders",
+  "kinds": ["bar-widget"],
+  "entryPoints": {"barWidget": "Panel.qml"},
+  "barWidget": {
+    "displayName": "Notification Center",
+    "description": "Recent notifications and saved reminders",
+    "category": "System",
+    "defaultSection": "right",
+    "allowMultiple": false
+  }
+}
